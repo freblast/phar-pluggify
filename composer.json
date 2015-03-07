@@ -1,0 +1,16 @@
+{
+  "name" : "freblast/phar-plugify",
+  "description" : "Plugin architecture library which uses PHP archives.",
+  "homepage" : "https://github.com/freblast/phar-plugify",
+  "license" : "MIT",
+  "authors" : [
+    {
+      "name" : "Frédéric Hennequin",
+      "email" : "frederichennequin@hotmail.com"
+    }
+  ],
+  "support" : {
+    "issues" : "https://github.com/freblast/phar-plugify/issues",
+    "wiki" : "https://github.com/freblast/phar-plugify/wiki"
+  }
+}
